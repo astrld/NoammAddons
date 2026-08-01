@@ -3,7 +3,7 @@
   "^Welcome to Hypixel SkyBlock!$",
   "^Latest update: SkyBlock .+$",
   "^(?:You are playing on profile|Profile ID): .+$",
-  "Error initializing players: undefined Hidden",
+  "(?:OpenGL Error: 1281 \\(Invalid value\\)|Error initializing players: undefined Hidden)",
   "^ {2}(?:Clicking sketchy links can result in your account|being stolen!|Link looks suspicious\\? - Don't click it!)$",
   "(?:Blacklisted modifications are a bannable offense!|Staff have banned an additional .+|\\[WATCHDOG ANNOUNCEMENT])",
   "^Watchdog has banned .+ players in the last 7 days\\.$",
